@@ -1,0 +1,10 @@
+section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 70%;
+    flex-wrap: wrap;    
+}
+#theory{
+    height: 100vh;
+}

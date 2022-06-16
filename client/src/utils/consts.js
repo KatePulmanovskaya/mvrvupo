@@ -1,0 +1,8 @@
+export const USER_PAGE_ROUTE = '/userPage'
+export const LOGIN_ROUTE = '/login'
+export const REGISTRATION_ROUTE = '/registration'
+export const MAIN_ROUTE = '/'
+export const THEORY_ROUTE = '/theory'
+export const PRACTICE_ROUTE = '/practice'
+export const TESTS_ROUTE = '/tests'
+export const STATISTICS_ROUTE = '/statistics'
